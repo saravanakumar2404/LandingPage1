@@ -21,7 +21,7 @@ a {
 body {
   font-family: "Montserrat", sans-serif;
   min-height: 100vh;
-  background-image: url("/img/header.jpg");
+  background-image: url("img/header.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
